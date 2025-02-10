@@ -1,2 +1,1 @@
-# design-hub
-InventoryManagement
+планировщик задач
